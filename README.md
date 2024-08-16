@@ -13,14 +13,14 @@ This is a Python-based banking management system that interacts with a MySQL dat
 8. [License](#license)
 
 ## Features
-- Create, update, delete customer records.
+- Create, update, and delete customer records.
 - Perform credit and debit transactions with balance validations.
 - Search customer details by account number.
 - Sort customer data by account number, name, or balance.
 - User-friendly menu-driven interface.
 
 ## Technologies Used
-- Python 3.x
+- Python 3. x
 - MySQL
 - MySQL Connector for Python
 
